@@ -1,4 +1,4 @@
-import nothing
+using System.Collections;
 
 int main()
 {
