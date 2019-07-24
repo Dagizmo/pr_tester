@@ -7,6 +7,8 @@ int main()
     // TEEEEEST _______
     var name = "Hello";
     var b = 0;
+    var tessst = "\n";
+    var test = "\n ";
     var other = 3;
     return 0;
 }
